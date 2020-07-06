@@ -1,0 +1,29 @@
+{
+  "name": "data-migration-in-sqlite-quick-try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elfiyang16/data-migration-in-sqlite-quick-try.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elfiyang16/data-migration-in-sqlite-quick-try/issues"
+  },
+  "homepage": "https://github.com/elfiyang16/data-migration-in-sqlite-quick-try#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "sqlite3": "^5.0.0",
+    "umzug": "^2.3.0"
+  }
+}
